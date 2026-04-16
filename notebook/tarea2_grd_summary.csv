@@ -1,0 +1,2 @@
+﻿codigo_comuna,nombre_comuna,grd_total,grd_chilean,grd_foreign,grd_pct_foreign,grd_mean_los,grd_mean_los_chilean,grd_mean_los_foreign,grd_mean_severity,grd_mortality_rate,grd_top3_chapters,grd_rate_per_10k
+13119,maipú,62614,58932,3682,5.88,7.02,7.16,4.68,1.64,3.49,"Cap.15  EMBARAZO, PARTO Y PUERPERIO (O00-O9A), Cap.11  ENFERMEDADES DEL APARATO DIGESTIVO (K00-K95), Cap.09  ENFERMEDADES DEL APARATO CIRCULATORIO (I00-I99)",1250.78
